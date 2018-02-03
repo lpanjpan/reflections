@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+el staging area me permite tener un control de los archivos que con los que estoy trabajando y de los que quiero tener control
+Working directory simplemente tiene todos los archivos del proyecto pero puede que no necesite un seguimiento de algunos de ellos
