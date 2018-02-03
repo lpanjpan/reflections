@@ -4,3 +4,8 @@ How is the staging area different from the working directory and the repository?
 
 el staging area me permite tener un control de los archivos que con los que estoy trabajando y de los que quiero tener control
 Working directory simplemente tiene todos los archivos del proyecto pero puede que no necesite un seguimiento de algunos de ellos
+
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	Hay alguna forma de tener varios stagin area?
+	si estoy trabajando en varios bug a la vez como puedo hacer para mantener separados esos cambios
