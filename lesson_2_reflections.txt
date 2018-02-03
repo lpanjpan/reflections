@@ -9,3 +9,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 	
 	Hay alguna forma de tener varios stagin area?
 	si estoy trabajando en varios bug a la vez como puedo hacer para mantener separados esos cambios
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	Si estoy haciendo un cambio que puede interferir en el funcionamiento del total del proyecto y que estoy experimentando
+	puede que me lleve tiempo acabarlo y quiero tener la posibilidad de seguir haciendo cambios en el master porque puede que 
+	haya que arreglar bugs o otras cosas y seria muy incomodo tener que borrar los cambios experimentales cada vez que quiera
+	hacer un cambio en el master. 
