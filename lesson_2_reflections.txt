@@ -16,3 +16,18 @@ What are some situations when branches would be helpful in keeping your history 
 	puede que me lleve tiempo acabarlo y quiero tener la posibilidad de seguir haciendo cambios en el master porque puede que 
 	haya que arreglar bugs o otras cosas y seria muy incomodo tener que borrar los cambios experimentales cada vez que quiera
 	hacer un cambio en el master. 
+
+How do the diagrams help you visualize the branch structure?
+
+	me dejan ver de una forma logica que cada branch pertenece a un lugar en el tiempo 
+	y que los cambios que se hacen posteriormente en otros branches son en un principio
+	indiferentes a los cambios que estoy haciendo en ese branch. 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Juntando dos branches se consigue juntar los cambios que se han hecho, por ejemplo, experimentales con
+	los originales que se habian hecho en el master desde que se empezo experimentando. Hay que tener cuidado
+	de saber donde esta el branch que se ha empezado a la hora de añadir una funcion grande o un cambio que lleva
+	un tiempo largo para acabarlo.
+
