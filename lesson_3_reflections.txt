@@ -5,3 +5,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	Porque si los cambios se han hecho remotamente, mientras yo estoy trabajando en el proyecto no me gustaria que automaticamente 
 	se hagan cambios en mi codigo sin que yo lo sepa sin saber donde se han hecho y porque...
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Fork es una copia del repositorio en GitHub. Un clone es una copia de un repositorio desde un remoto a local y 
+	branch es una rama que me permite seguir editando codigo en un proyecto local o remoto sin afectar al contenido original del proyecto.	
