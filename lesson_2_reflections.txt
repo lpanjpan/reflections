@@ -31,3 +31,13 @@ What is the result of merging two branches together? Why do we represent it in t
 	de saber donde esta el branch que se ha empezado a la hora de añadir una funcion grande o un cambio que lleva
 	un tiempo largo para acabarlo.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic
+	Pros: Que hace el trabajo de mirar las diferencias del codigo por mi
+	Cons:
+
+	Manual 
+	Pros: 
+	Cons:
+
